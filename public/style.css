@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  form input, form button {
+    margin: 0 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+  }
+  
